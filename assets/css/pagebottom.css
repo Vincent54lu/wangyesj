@@ -1,0 +1,101 @@
+/*pagebottom*/
+.pagebottom {
+  color: #8d8d8d;
+  margin: 0 auto;
+  padding-top: 0px;
+  width: 100%;
+  font-size: 14px;
+  background-color: #fff;
+  border-top: 2px solid #c72a2a;
+}
+
+.pagebottom a {
+  color: #8d8d8d
+}
+
+.pagebottom_nav {
+  width: 1280px;
+  margin: 0 auto;
+  height: 76px;
+  line-height: 56px;
+  text-align: center;
+  font-size: 18px;
+  color: #666
+}
+
+.pagebottom_nav a {
+  color: #666;
+  text-decoration: none
+}
+
+.pagebottom_nav a:hover {
+  color: #666;
+  text-decoration: underline
+}
+
+.pagebottom_nav span {
+  padding: 0 10px
+}
+
+.pagebottom_nav li {
+  float: left;
+  padding: 10px 40px
+}
+
+.pagebottom_nav li:hover {
+  background-color: #c72a2a
+}
+
+.pagebottom_nav li:hover a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.pagebottom_nav li a {
+  color: #c72a2a
+}
+
+.pagebottom_nav .client {
+  float: left;
+  border-left: 1px solid #f0f0f0;
+  height: 76px
+}
+
+.pagebottom_nav .client a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px 20px 0
+}
+
+.pagebottom_nav .client a div {
+  color: #c72a2a;
+  font-size: 12px;
+  margin-top: -40px
+}
+
+.pagebottom_nr {
+  color: #8d8d8d;
+  background-color: #f9f9f9;
+  padding-top: 10px
+}
+
+.pagebottom_nr a {
+  color: #8d8d8d;
+  text-decoration: none
+}
+
+.pagebottom_nr a:hover {
+  color: #8d8d8d;
+  text-decoration: underline
+}
+
+.pagebottom .des {
+  line-height: 32px;
+  text-align: center;
+  font-size: 14px;
+  display: inline-block;
+  width: 100%;
+}
+.clear {
+  clear: both;
+}
